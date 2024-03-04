@@ -40,18 +40,9 @@ h1 {
     margin-bottom: 20px;
     padding: 10px;
     gap: 10px;
+    background-color: cadetblue;
 }
 
-#NewTodo {
-    width: 100%;
-    border-width: 0 0 1px 0;
-    padding: 0;
-    color: white;
-}
-
-.todo-card button {
-    min-width: 50px;
-}
 
 .todo-card-new {
     display: grid;
@@ -61,4 +52,5 @@ h1 {
     margin-bottom: 20px;
     padding: 10px;
     gap: 10px;
+    background-color: cadetblue;
 }
